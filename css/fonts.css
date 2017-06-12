@@ -1,0 +1,40 @@
+ /*Acrom light*/
+@font-face{
+	font-family: 'PFDinCondensedLight'; 
+	src: url("../fonts/PFDinCondensedLight/PFDinCondensedLight.eot");
+	src: url("../fonts/PFDinCondensedLight/PFDinCondensedLight.ttf");
+	src: url("../fonts/PFDinCondensedLight/PFDinCondensedLight.woff");
+}
+
+/*Acrom light italic*/
+@font-face{
+	font-family: 'PFDinCondensedLightItalic';  
+	src: url("../fonts/PFDinCondensedLightItalic/PFDinCondensedLightItalic.eot");
+	src: url("../fonts/PFDinCondensedLightItalic/PFDinCondensedLightItalic.ttf");
+	src: url("../fonts/PFDinCondensedLightItalic/PFDinCondensedLightItalic.woff");
+} 
+
+ /*Acrom light medium*/
+@font-face{
+	font-family: 'PFDinCondensedLightMedium'; 
+	src: url("../fonts/PFDinCondensedMedium/PFDinCondensedMedium.eot");
+	src: url("../fonts/PFDinCondensedMedium/PFDinCondensedMedium.ttf");
+	src: url("../fonts/PFDinCondensedMedium/PFDinCondensedMedium.woff");
+} 
+
+/*Acrom light medium*/
+@font-face{
+	font-family: 'PFDinCondensedLightMedium';  
+	src: url("../fonts/PFDinCondensedMedium/PFDinCondensedMedium.eot");
+	src: url("../fonts/PFDinCondensedMedium/PFDinCondensedMedium.ttf");
+	src: url("../fonts/PFDinCondensedMedium/PFDinCondensedMedium.woff");
+} 
+
+/*Acrom light regular*/
+@font-face{
+	font-family: 'PFDinCondensedRegular';  
+	src: url("../fonts/PFDinCondensedRegular/PFDinCondensedRegular.eot");
+	src: url("../fonts/PFDinCondensedRegular/PFDinCondensedRegular.ttf");
+	src: url("../fonts/PFDinCondensedRegular/PFDinCondensedRegular.woff");
+} 
+
